@@ -61,7 +61,8 @@ idna==3.10
 importlib_metadata==8.6.1
 iniconfig==2.1.0
 interegular==0.3.3
-ipython>=8.0.0
+ipython==9.0.2
+ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 Jinja2==3.1.6
 jiter==0.9.0
@@ -86,7 +87,7 @@ multidict==6.4.4
 multiprocess==0.70.16
 nanobind==2.6.1
 nest-asyncio==1.6.0
-networkx==3.4.2
+networkx==3.5
 ninja==1.11.1.4
 numba==0.60.0
 numpy==1.26.4  # Downgraded for compatibility with numba which requires <2.1
