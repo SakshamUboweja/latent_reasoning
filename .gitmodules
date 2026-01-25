@@ -1,6 +1,3 @@
-[submodule "HRPO"]
-	path = HRPO
-	url = https://github.com/Yueeeeeeee/HRPO.git
 [submodule "Scratchpad-Thinking"]
 	path = Scratchpad-Thinking
 	url = https://github.com/sayam-goyal/Scratchpad-Thinking.git
