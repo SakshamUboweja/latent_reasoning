@@ -124,7 +124,7 @@ prometheus-fastapi-instrumentator==7.1.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
 propcache==0.3.1
-protobuf==5.29.3  # Downgraded for compatibility with wandb which requires <6
+protobuf>=3.20.0,<4.0.0  # Required for unsloth-zoo compatibility (needs <4.0.0), also compatible with wandb, ray, tensorboardx
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
