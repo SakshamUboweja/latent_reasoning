@@ -86,7 +86,7 @@ multidict==6.4.4
 multiprocess==0.70.16
 nanobind==2.6.1
 nest-asyncio==1.6.0
-networkx==3.5
+networkx==3.4.2
 ninja==1.11.1.4
 numba==0.60.0
 numpy==1.26.4  # Downgraded for compatibility with numba which requires <2.1
